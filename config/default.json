@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://aditya:aditya.12011535@cluster0.qx4g2.mongodb.net/todo",
+    "jwtSecretCode":"thisIsMySecretCode"
+} 
